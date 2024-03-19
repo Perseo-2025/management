@@ -1,4 +1,4 @@
-import express from "express";
+import express from 'express';
 import dotenv from 'dotenv'
 import conectarDB from "./config/db.js";
 import VeterinarioRoutes from './routes/veterinarioRoutes.js'
